@@ -1,0 +1,24 @@
+Modeling files
+
+# sound-pure-hp.jl
+Speed of sound prediction
+Pure IL
+hp - high pressure
+
+# sound-pure.jl
+Speed of sound prediction
+Pure IL
+
+# sound-mix-water.jl
+Speed of sound prediction
+IL-water mixture
+
+# sound-mix-ethanol.jl
+Speed of sound prediction
+IL-ethanol mixture
+
+# Cp-pure.jl
+Cp prediction
+
+# Cp-ideal.jl
+Ideal Cp evaluation
