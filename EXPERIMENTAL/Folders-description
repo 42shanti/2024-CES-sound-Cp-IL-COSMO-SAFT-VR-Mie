@@ -1,0 +1,13 @@
+[# Folder
+Description]
+
+# Cp
+Cp experimental data
+
+# sound-mixtures
+Starting with 'e' - ethanol-IL mixture experimental data
+Starting with 'w' - wawter-IL mixture experimental data
+
+# sound-pure
+Starting with 'hp' - pure sound experimental data at high pressure
+NOT starting with 'hp' - pure sound experimental data at low pressure
