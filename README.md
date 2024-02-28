@@ -6,3 +6,7 @@ CSV files
 
 # MODELING FOLDER
 SAFTVRMie modeling scripts
+
+# EXPERIMENTAL FOLDER
+Experimental data CSV files
+(see paper for sources)
