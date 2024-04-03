@@ -49,7 +49,9 @@ C6MIMTF2N_2BL,,H,C6MIMTF2N_2BL,,e,2250,3.45E-27,literature
 
 IL,,H,IL,,e,2250,3450E-30,literature
 
-ethanol_3B,,H,ethanol_3B,,e,2380.0,150.18E-30,10.1016/j.molliq.2018.05.112
+ethanol_2B,,H,ethanol_2B,,e,1900.97, 2.16E-29,clapeyron
+
+ethanol_polishuk,,H,ethanol_polishuk,,e,2380.0,150.18E-30,https://doi.org/10.1016/j.molliq.2018.05.112
 water_LJ,O,H,water_LJ,O,e,1600,496.66E-30,https://doi.org/10.1080/00268976.2015.1029027
 
 
