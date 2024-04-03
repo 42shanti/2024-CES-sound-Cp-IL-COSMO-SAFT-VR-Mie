@@ -58,9 +58,9 @@ C5MIMTF2N,"[""ring=CH-"" => 3,""-N= (ring)"" => 2,""-CH3"" => 2,""-CH2-"" => 4,"
 C6MIMTF2N,"[""ring=CH-"" => 3,""-N= (ring)"" => 2,""-CH3"" => 2,""-CH2-"" => 5,"">C<"" => 2,""-F"" => 6,"">N- (non-ring)"" => 1,""-S- (non-ring)"" => 2,""=O (other than above)"" => 4]"
 C8MIMTF2N,"[""ring=CH-"" => 3,""-N= (ring)"" => 2,""-CH3"" => 2,""-CH2-"" => 7,"">C<"" => 2,""-F"" => 6,"">N- (non-ring)"" => 1,""-S- (non-ring)"" => 2,""=O (other than above)"" => 4]"
 
-ethanol_3B,"[""-CH3"" => 1,""-CH2-"" => 1, ""-OH (alcohol)"" => 1]"
+ethanol_2B,"[""-CH3"" => 1,""-CH2-"" => 1, ""-OH (alcohol)"" => 1]"
 
-water_duf,"[""H2O"" => 1]"
+ethanol_polishuk,"[""-CH3"" => 1,""-CH2-"" => 1, ""-OH (alcohol)"" => 1]"
 water_LJ,"[""H2O"" => 1]"
 
 C2MIMTF2N_2BL,"[""ring=CH-"" => 3,""-N= (ring)"" => 2,""-CH3"" => 2,""-CH2-"" => 1,"">C<"" => 2,""-F"" => 6,"">N- (non-ring)"" => 1,""-S- (non-ring)"" => 2,""=O (other than above)"" => 4]"
