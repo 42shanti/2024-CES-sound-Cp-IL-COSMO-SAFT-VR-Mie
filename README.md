@@ -5,7 +5,7 @@ SAFT-VR Mie (Clapeyron.jl - density, isobaric heat capacity, isobaric expansivit
 SAFTVRMie modeling scripts
 
 # PARAMETERS folder
-SAFTVRMie and Joback parameters CSV files
+SAFTVRMie and Joback IL parameters CSV files
 
 # JULIA PACKAGES VERSION
 name = "Clapeyron"
