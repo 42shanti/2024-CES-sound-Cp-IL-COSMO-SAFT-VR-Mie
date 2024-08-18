@@ -7,6 +7,4 @@ SAFTVRMie modeling scripts
 # PARAMETERS folder
 SAFTVRMie and Joback parameters CSV files
 
-# EXPERIMENTAL folder
-Experimental data CSV files
-(see paper for sources)
+
